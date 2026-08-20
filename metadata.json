@@ -1,0 +1,6 @@
+{
+  "name": "IlmIldizi",
+  "description": "Tarix, Milliy Sertifikat va BBA imtihonlariga tayyorgarlik ko'rish uchun to'liq gamifikatsiyalashgan ta'lim platformasi va SaaS boshqaruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
